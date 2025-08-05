@@ -113,3 +113,5 @@
 @@||safebrowsing.apple^
 @@||sp.tinymce.com^
 @@||app-measurement.com^
+@@||euc1-wps-prod.apple.com^
+@@||s.mzstatic.com^
