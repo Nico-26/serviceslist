@@ -103,3 +103,5 @@
 @@||vauban.jamfcloud.com^
 @@||akamaiedge.net^
 @@||smp-device-content.apple.com^
+@@||sse-ws-p189.apple.com^
+@@||cdsassets.apple.com^
