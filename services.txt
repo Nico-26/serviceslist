@@ -73,6 +73,7 @@
 @@||yammer.com^
 @@||yammerusercontent.com^
 @@||appex.bing.com^
+@@edgekey.net^
 @@||*.Microsoft^
 
 @@||vauban.lu^
