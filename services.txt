@@ -46,6 +46,7 @@
 @@||onenote.com^
 @@||onenote.net^
 @@||onmicrosoft.com^
+@@||windowsupdate.com^
 @@||onestore.ms^
 @@||outlook.com^
 @@||outlookmobile.com^
@@ -79,6 +80,7 @@
 @@||vauban.lu^
 @@||vauban.local^
 @@||trafficmanager.net^
+@@||akamai.net^
 @@||gateway.icloud.com^
 @@||health.apple.com^
 @@||bag.itunes.apple.com^
@@ -87,3 +89,8 @@
 @@||ess.apple.com^
 @@||apple-dns.net^
 @@||aaplimg.com^
+@@||cdn-apple.com^
+@@||push.apple.com^
+@@||xp.apple.com^
+@@||time.apple.com^
+@@||gdmf.apple.com^
