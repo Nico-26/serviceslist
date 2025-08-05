@@ -137,3 +137,4 @@
 @@||amp-api.apps.apple.com^
 @@||sf-api-token-service.itunes.apple.com^
 @@||stocks-data-service.apple.com^
+@@||fpinit.itunes.apple.com^
