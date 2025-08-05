@@ -94,3 +94,11 @@
 @@||xp.apple.com^
 @@||time.apple.com^
 @@||gdmf.apple.com^
+@@||l3.apple.com^
+@@||sandbox.itunes.apple.com^
+@@||setup.icloud.com^
+@@||akadns.net^
+@@||bpapi.apple.com^
+@@||lcdn-locator.apple.com^
+@@||vauban.jamfcloud.com^
+@@||akamaiedge.net^
