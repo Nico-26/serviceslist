@@ -77,6 +77,7 @@
 @@||edgekey.net^
 @@||s-microsoft.com
 @@||*.Microsoft^
+! Services microsoft
 @@||vauban.lu^
 @@||vauban.local^
 @@||trafficmanager.net
