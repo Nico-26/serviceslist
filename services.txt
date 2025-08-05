@@ -77,14 +77,8 @@
 @@||edgekey.net^
 @@||s-microsoft.com
 @@||*.Microsoft^
-
-
 @@||vauban.lu^
 @@||vauban.local^
-
-
 @@||trafficmanager.net
-
-
 @@||gateway.icloud.com
 @@||health.apple.com
