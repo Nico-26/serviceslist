@@ -81,7 +81,12 @@
 @@||vauban.lu^
 @@||vauban.local^
 ! Services Génériques
-@@||trafficmanager.net
+@@||trafficmanager.net^
 ! Services Génériques
-@@||gateway.icloud.com
-@@||health.apple.com
+@@||gateway.icloud.com^
+@@||health.apple.com^
+@@||bag.itunes.apple.com^
+@@||ocsp2.apple.com^
+@@||ls.apple.com^
+@@||ess.apple.com^
+@@||apple-dns.net^
