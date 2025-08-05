@@ -90,3 +90,4 @@
 @@||ls.apple.com^
 @@||ess.apple.com^
 @@||apple-dns.net^
+@@||aaplimg.com^
