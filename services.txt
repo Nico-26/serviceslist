@@ -108,3 +108,8 @@
 @@||pancake.apple.com^
 @@||stocks-edge.apple.com^
 @@||cl3.apple.com^
+@@||wps.apple.com^
+@@||googleapis.com^
+@@||safebrowsing.apple^
+@@||sp.tinymce.com^
+@@||app-measurement.com^
