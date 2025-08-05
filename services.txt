@@ -78,13 +78,13 @@
 @@||s-microsoft.com
 @@||*.Microsoft^
 
-! Services Vauban
+
 @@||vauban.lu^
 @@||vauban.local^
 
-! Services Génériques
+
 @@||trafficmanager.net
 
-! Services Apple
+
 @@||gateway.icloud.com
 @@||health.apple.com
