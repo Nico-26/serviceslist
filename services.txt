@@ -77,9 +77,11 @@
 @@||edgekey.net^
 @@||s-microsoft.com
 @@||*.Microsoft^
-! Services microsoft
+! Services Vauban
 @@||vauban.lu^
 @@||vauban.local^
+! Services Génériques
 @@||trafficmanager.net
+! Services Génériques
 @@||gateway.icloud.com
 @@||health.apple.com
