@@ -1,4 +1,3 @@
-! Services Microsoft
 @@||aadrm.com^
 @@||acompli.com^
 @@||acompli.net^
@@ -77,12 +76,9 @@
 @@||edgekey.net^
 @@||s-microsoft.com
 @@||*.Microsoft^
-! Services Vauban
 @@||vauban.lu^
 @@||vauban.local^
-! Services Génériques
 @@||trafficmanager.net^
-! Services Génériques
 @@||gateway.icloud.com^
 @@||health.apple.com^
 @@||bag.itunes.apple.com^
