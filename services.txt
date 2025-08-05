@@ -105,3 +105,6 @@
 @@||smp-device-content.apple.com^
 @@||sse-ws-p189.apple.com^
 @@||cdsassets.apple.com^
+@@||pancake.apple.com^
+@@||stocks-edge.apple.com^
+@@||cl3.apple.com^
