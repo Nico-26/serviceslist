@@ -102,3 +102,4 @@
 @@||lcdn-locator.apple.com^
 @@||vauban.jamfcloud.com^
 @@||akamaiedge.net^
+@@||smp-device-content.apple.com^
