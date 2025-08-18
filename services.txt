@@ -208,3 +208,6 @@
 @@||h5-epnsbroker07.eset.com^
 @@||adguard.com^
 @@||in-addr.arpa^
+@@||repository.eset.com^
+@@||expire.eset.com^
+@@||edf.eset.com^
