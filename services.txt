@@ -211,3 +211,4 @@
 @@||repository.eset.com^
 @@||expire.eset.com^
 @@||edf.eset.com^
+@@||cl4.apple.com^
