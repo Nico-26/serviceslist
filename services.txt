@@ -145,3 +145,4 @@
 @@||cdp.thawte.com^
 @@||edgedl.me.gvt1.com^
 @@||dl.google.com^
+@@||epns.eset.com^
