@@ -138,3 +138,6 @@
 @@||sf-api-token-service.itunes.apple.com^
 @@||stocks-data-service.apple.com^
 @@||fpinit.itunes.apple.com^
+@@||update.eset.com^
+@@||dns.msftncsi.com^
+@@||msftconnecttest.com^
