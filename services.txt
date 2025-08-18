@@ -141,3 +141,5 @@
 @@||update.eset.com^
 @@||dns.msftncsi.com^
 @@||msftconnecttest.com^
+@@||status.thawte.com^
+@@||cdp.thawte.com^
