@@ -206,3 +206,5 @@
 @@||h5-epnsbroker05.eset.com^
 @@||h5-epnsbroker06.eset.com^
 @@||h5-epnsbroker07.eset.com^
+@@||adguard.com^
+@@||in-addr.arpa^
