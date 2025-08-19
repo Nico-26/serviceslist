@@ -212,3 +212,4 @@
 @@||expire.eset.com^
 @@||edf.eset.com^
 @@||cl4.apple.com^
+@@||x1.c.lencr.org^
